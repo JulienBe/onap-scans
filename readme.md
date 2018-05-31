@@ -22,6 +22,7 @@
 ## Python friendly repos
 
 `find ./ -name "*.py" | cut -d'/' -f 2 | uniq -c | sort -k 2`
+
       7 appc
       1 appc_deployment
       1 ccsdk_distribution
