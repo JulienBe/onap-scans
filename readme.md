@@ -86,8 +86,6 @@
       1 oom_registrator
       1 music_prom
       1 mso_docker-config
-      1 dcae_controller
-      1 dcae_apod_cdap
       1 ccsdk_distribution
       1 appc_deployment
 
@@ -106,15 +104,6 @@
         ccsdk_storage_pgaas-checkmarx
         ccsdk_utils-checkmarx
         cla-checkmarx
-        dcae-checkmarx
-        dcae_apod-checkmarx
-        dcae_collectors-checkmarx
-        dcae_demo_startup-checkmarx
-        dcae_demo_startup_aaf-checkmarx
-        dcae_demo_startup_controller-checkmarx
-        dcae_operation-checkmarx
-        dcae_utils-checkmarx
-        dcae_utils_buildtools-checkmarx
         dcaegen2-checkmarx
         dcaegen2_analytics-checkmarx
         dcaegen2_analytics_flink-checkmarx
